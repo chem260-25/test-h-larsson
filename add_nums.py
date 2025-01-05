@@ -8,6 +8,6 @@ def add_numbers(a: int, b: int) -> int:
     :param b: Second integer
     :return: Sum of the integers
     """
-    return a + b 
+#    return a + b 
     pass  # Replace with your implementation
 
